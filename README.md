@@ -1,0 +1,2 @@
+# Word_Embedding
+In natural language processing, word embedding is a term used for the representation of words for text analysis, typically in the form of a real-valued vector that encodes the meaning of the word such that the words that are closer in the vector space are expected to be similar in meaning.Word embeddings are a type of word representation that allows words with similar meaning to have a similar representation.
